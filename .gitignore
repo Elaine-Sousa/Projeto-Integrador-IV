@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+__pycache__/
+
+# Banco de dados
+*.db
+
+# Uploads gerados pelo sistema
+uploads/
+
+# Arquivos temporários
+*.log
